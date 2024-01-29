@@ -46,7 +46,7 @@
 
 
 
-![Memcached](![alt text](https://github.com/bulrza/11-02/blob/main/img/memcached_02.png))`
+![Memcached](https://github.com/bulrza/11-02/blob/main/img/memcached_02.png)
 
 
 ---
